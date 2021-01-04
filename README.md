@@ -2,9 +2,7 @@
 
 My name is Sergio Cuadros, I'm from Colombia, currently living in Brazil. I'm passionate for modern web development and its ecosystem. I'm currently focused on JavaScript FullStack. I'm always looking for new challenges, experiences, and opportunities to continue learning and growing. 
 
-📫 How to reach me: https://www.linkedin.com/in/sergio-cuadros-z/
-<br>
-<code><img height="20" src="https://pbs.twimg.com/profile_images/875170358218735617/qYyASCpq_200x200.jpg"></code>[@chechocz](https://twitter.com/ChechoCZ)
+📫 How to reach me: https://www.linkedin.com/in/sergio-cuadros-z/ || [@chechocz](https://twitter.com/ChechoCZ)
 
 
 **Skills and Experience:**  
