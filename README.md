@@ -18,6 +18,7 @@
 ## 🚀 Frameworks & Tools
 
 **Mobile**
+
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Ionic](https://img.shields.io/badge/Ionic-20232A?style=flat&logo=ionic&logoColor=61DAFB)
 
@@ -69,6 +70,7 @@
   ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint&logoColor=blue)
 
 **CI/CD**
+
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Github Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=github)
 
