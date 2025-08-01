@@ -5,7 +5,7 @@
 - 🌎 &nbsp; Manizales, Caldas, Colombia 🇨🇴.
 - 📌 &nbsp; Chapecó, SC - Brazil 🇧🇷.
 - 🎓 &nbsp; Telecommunications engineer - 2011.
-- 💼 &nbsp; Senior Software Engineer at [Oowlish](https://www.oowlish.com/).
+- 💼 &nbsp; Senior front-end Engineer at [ProDeal](https://www.prodeal360.com/).
 
 
 ## 🧞‍♂️ Languages
